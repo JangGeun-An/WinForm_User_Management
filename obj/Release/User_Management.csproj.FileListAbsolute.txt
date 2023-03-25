@@ -1,0 +1,16 @@
+C:\Users\Zeek\source\repos\User_Management\bin\Release\User_Manage.mdf
+C:\Users\Zeek\source\repos\User_Management\bin\Release\User_Manage_log.ldf
+C:\Users\Zeek\source\repos\User_Management\bin\Release\User_Management.exe.config
+C:\Users\Zeek\source\repos\User_Management\bin\Release\User_Management.exe
+C:\Users\Zeek\source\repos\User_Management\bin\Release\User_Management.pdb
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.Admin.resources
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.Login.resources
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.Properties.Resources.resources
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.Sign_Up.resources
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.User.resources
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.csproj.GenerateResource.cache
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.exe
+C:\Users\Zeek\source\repos\User_Management\obj\Release\User_Management.pdb
